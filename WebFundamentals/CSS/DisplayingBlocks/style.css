@@ -1,0 +1,55 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#wrapper{
+ width: 700px;
+ background-color: #D4D2AE;
+ margin: 0px auto;
+ padding:20px;
+}
+
+#header{
+ width:75%;
+ margin:auto;
+ margin-bottom:20px;
+}
+
+div#header img{
+    height:50px;
+    width:100px;
+    display:inline-block;
+}
+
+#myTitle{
+    display:inline-block;
+}
+
+div img{
+    width:100px;    
+}
+
+#main_content{
+ width: 700px;
+ display:inline-block;
+ padding:10px;
+}
+
+.blue{
+     background-color: #82B4EE;
+}
+
+.red{
+     background-color: #F46870;
+}
+
+.square{
+ display:inline-block;
+ margin-right:5px;
+ border-style:solid;
+ border-color:black;
+ padding:10px;
+ margin-bottom:5px;
+}
